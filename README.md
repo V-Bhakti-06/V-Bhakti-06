@@ -1,24 +1,53 @@
-# 💫 About Me:
-Hi there 👋, I'm Bhakti Vadher<br><br>🎓 MCA Student | 🎨 Creative Freelancer | 💻 Tech Enthusiast<br><br>About Me:<br><br> I am passionate about technology, software development, and creative design. I enjoy learning new skills, exploring emerging technologies, and building practical solutions.<br><br><br>🔭 I'm currently working on freelance creative projects and improving my programming skills.<br><br>👯 I'm looking to collaborate on web development, design, and open-source projects.<br><br>🤝 I'm looking for help with Java development and software engineering.<br><br>🌱 I'm currently learning Advanced Java, Full-Stack Web Development, Database Management Systems, and Data Structures & Algorithms.<br><br>💬 Ask me about Java, MySQL, Web Development, Graphic Design, Canva, and GitHub.<br><br>⚡ Fun fact: I enjoy combining creativity and technology through freelancing and programming.<br><br>Skills:
+## Hi there! 👋
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhakti vadher) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhaktivadher607@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=V-Bhakti-06&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=V-Bhakti-06&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=V-Bhakti-06&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm **Bhakti Vadher** — an IT student, problem solver, and self-driven web developer in training. I enjoy building interactive web experiences and sharpening my coding skills one project at a time. 🚀
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=V-Bhakti-06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+> Turning ideas into small, meaningful projects — and learning every step of the way.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## About Me
 
----
-[![](https://komarev.com/ghpvc/?username=V-Bhakti-06&icon=4&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Hello, I'm Bhakti Vadher. I'm an IT student who loves solving problems and improving my coding skills. I began publishing projects on GitHub in October 2023 and focus on small-to-medium web projects and configuration/tooling scripts.
+
+- 🔭 Currently building web projects (creative studio website, interactive widgets)
+- 🌱 Learning: deeper JavaScript, front-end frameworks, and modern tooling
+- 🤝 Open to collaborating on beginner-friendly web projects
+- 🔗 LinkedIn: [Bhakti Vadher](https://www.linkedin.com/in/bhakti-vadher-4228a2315/)
+
+## Skills & Technologies
+
+html,css,js,git,github,bootstrap,react,vscode,java,c,mysql
+
+## Top Projects
+
+## Top Projects
+
+Here are some of my notable repositories:
+
+1. [Bhaktis-Creative-Studio-Web](https://github.com/V-Bhakti-06/Bhaktis-Creative-Studio-Web) ⭐
+   - Description: Creative studio web offering graphic design, web design & development, photography and videography services.
+   - Stars: 1  | Watchers: 1  | Primary language: CSS
+   - Stats: forks: 0 • open issues: 0
+
+2. [Emoji-Translator](https://github.com/V-Bhakti-06/Emoji-Translator) ⭐
+   - Description: Interactive web app that lets users convert text into fun emojis in real-time.
+   - Stars: 1  | Watchers: 1  | Primary language: HTML/CSS/JavaScript
+   - Stats: forks: 0 • open issues: 0
+
+3. [bhakti-coder-06](https://github.com/V-Bhakti-06/bhakti-coder-06)
+   - Description: GitHub profile configuration files (profile repo / tooling configs).
+   - Stars: 0  | Watchers: 0  | Primary language: config
+   - Topics: config, github-config
+
+4. [V-Bhakti-06 (profile repo)](https://github.com/V-Bhakti-06/V-Bhakti-06)
+   - Description: Repository for this GitHub profile and README.
+   - Stars: 0  | Watchers: 0  | Primary language: —
+
+(If you'd like demos or live links for any project, open an issue in the relevant repo and I’ll add them.)
+
+## Connect with Me
+
+{"linkedin":"https://www.linkedin.com/in/bhakti-vadher-4228a2315/"}
