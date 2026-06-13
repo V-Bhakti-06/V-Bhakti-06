@@ -1,23 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1E90FF,100:00BFFF&text=BHAKTI%20VADHER&fontColor=FFFFFF)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=100&color=11ADF7&background=BAEDFF00&repeat=false&width=435&lines=+Hello%F0%9F%91%8B%2C+I'm+Bhakti+Vadher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&pause=1000&width=435&lines=Hello%2C+I'm+Bhakti)](https://git.io/typing-svg)
 
 I am currently pursuing a Master of Computer Applications (MCA). I am passionate about technology, software development, and creative design. I enjoy learning new skills, exploring emerging technologies, and building practical solutions.
 
-## Contact Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/bhakti-vadher" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
-</a>
-<a href="mailto:bhaktivadher607@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="40" height="40"/>
-</a>
-<a href="https://wa.me/919510071134" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
-       alt="whatsapp"
-       width="40"
-       height="40" />
-</a>
 
 ## Skills
 
@@ -41,3 +26,18 @@ I am currently pursuing a Master of Computer Applications (MCA). I am passionate
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=V-Bhakti-06&theme=tokyonight" alt="GitHub Streak" />
 
+## Contact Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/bhakti-vadher" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+</a>
+<a href="mailto:bhaktivadher607@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="40" height="40"/>
+</a>
+<a href="https://wa.me/919510071134" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+       alt="whatsapp"
+       width="40"
+       height="40" />
+</a>
