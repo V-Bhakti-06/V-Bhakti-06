@@ -1,53 +1,36 @@
-## Hi there! 👋
+# Hello 👋, I'm Bhakti Vadher
+### Creative Freelancer
+
+I am currently pursuing a Master of Computer Applications (MCA). I am passionate about technology, software development, and creative design. I enjoy learning new skills, exploring emerging technologies, and building practical solutions.
+
+## Contact Me
+<p><a href="linkedin.com/in/bhakti-vadher" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+
+## Skills
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+</p>
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=V-Bhakti-06&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Bhakti-06&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=V-Bhakti-06&theme=tokyonight" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/V-Bhakti-06/count.svg?" alt="visitors count" />
 
 
 
-I'm **Bhakti Vadher** — an IT student, problem solver, and self-driven web developer in training. I enjoy building interactive web experiences and sharpening my coding skills one project at a time. 🚀
+<img src="https://github-profile-trophy.vercel.app/?username=V-Bhakti-06" alt="trophy" />
 
-> Turning ideas into small, meaningful projects — and learning every step of the way.
-
-## About Me
-
-
-
-Hello, I'm Bhakti Vadher. I'm an IT student who loves solving problems and improving my coding skills. I began publishing projects on GitHub in October 2023 and focus on small-to-medium web projects and configuration/tooling scripts.
-
-- 🔭 Currently building web projects (creative studio website, interactive widgets)
-- 🌱 Learning: deeper JavaScript, front-end frameworks, and modern tooling
-- 🤝 Open to collaborating on beginner-friendly web projects
-- 🔗 LinkedIn: [Bhakti Vadher](https://www.linkedin.com/in/bhakti-vadher-4228a2315/)
-
-## Skills & Technologies
-
-html,css,js,git,github,bootstrap,react,vscode,java,c,mysql
-
-## Top Projects
-
-## Top Projects
-
-Here are some of my notable repositories:
-
-1. [Bhaktis-Creative-Studio-Web](https://github.com/V-Bhakti-06/Bhaktis-Creative-Studio-Web) ⭐
-   - Description: Creative studio web offering graphic design, web design & development, photography and videography services.
-   - Stars: 1  | Watchers: 1  | Primary language: CSS
-   - Stats: forks: 0 • open issues: 0
-
-2. [Emoji-Translator](https://github.com/V-Bhakti-06/Emoji-Translator) ⭐
-   - Description: Interactive web app that lets users convert text into fun emojis in real-time.
-   - Stars: 1  | Watchers: 1  | Primary language: HTML/CSS/JavaScript
-   - Stats: forks: 0 • open issues: 0
-
-3. [bhakti-coder-06](https://github.com/V-Bhakti-06/bhakti-coder-06)
-   - Description: GitHub profile configuration files (profile repo / tooling configs).
-   - Stars: 0  | Watchers: 0  | Primary language: config
-   - Topics: config, github-config
-
-4. [V-Bhakti-06 (profile repo)](https://github.com/V-Bhakti-06/V-Bhakti-06)
-   - Description: Repository for this GitHub profile and README.
-   - Stars: 0  | Watchers: 0  | Primary language: —
-
-(If you'd like demos or live links for any project, open an issue in the relevant repo and I’ll add them.)
-
-## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/bhakti-vadher-4228a2315/"}
