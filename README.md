@@ -4,6 +4,14 @@
 I am currently pursuing a Master of Computer Applications (MCA). I am passionate about technology, software development, and creative design. I enjoy learning new skills, exploring emerging technologies, and building practical solutions.
 
 
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=V-Bhakti-06&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Bhakti-06&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=V-Bhakti-06&theme=tokyonight" alt="GitHub Streak" />
+
 ## Skills
 
 <p align="left">
@@ -18,13 +26,7 @@ I am currently pursuing a Master of Computer Applications (MCA). I am passionate
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=V-Bhakti-06&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Bhakti-06&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=V-Bhakti-06&theme=tokyonight" alt="GitHub Streak" />
 
 ## Contact Me
 
