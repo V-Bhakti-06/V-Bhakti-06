@@ -28,9 +28,3 @@ I am currently pursuing a Master of Computer Applications (MCA). I am passionate
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=V-Bhakti-06&theme=tokyonight" alt="GitHub Streak" />
 
-<img src="https://profile-counter.glitch.me/V-Bhakti-06/count.svg?" alt="visitors count" />
-
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=V-Bhakti-06" alt="trophy" />
-
