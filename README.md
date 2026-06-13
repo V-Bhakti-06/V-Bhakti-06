@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1E90FF,100:00BFFF&text=BHAKTI%20VADHER&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1E90FF,100:00BFFF&text=BHAKTI%20VADHER&fontColor=FFFFFF)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&pause=1000&width=435&lines=Hello%2C+I'm+Bhakti)](https://git.io/typing-svg)
 
 I am currently pursuing a Master of Computer Applications (MCA). I am passionate about technology, software development, and creative design. I enjoy learning new skills, exploring emerging technologies, and building practical solutions.
