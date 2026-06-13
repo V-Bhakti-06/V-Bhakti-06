@@ -1,16 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1E90FF,100:00BFFF&text=BHAKTI%20VADHER&fontColor=FFFFFF)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&pause=1000&width=435&lines=Hello%2C+I'm+Bhakti)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=\&size=30\&pause=1000\&width=500\&lines=CREATIVE+FREELANCER;MCA+STUDENT;TECH+EXPLORER)](https://git.io/typing-svg)
 
-I am currently pursuing a Master of Computer Applications (MCA). I am passionate about technology, software development, and creative design. I enjoy learning new skills, exploring emerging technologies, and building practical solutions.
+## About Me
 
+🎓 Currently pursuing MCA and working as a Creative Freelancer
 
-## GitHub Stats
+💻 Interested in Java, Python, PHP, MySQL, and Software Development
 
-<img src="https://github-readme-stats.vercel.app/api?username=V-Bhakti-06&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+🎨 Passionate about painting, graphic design, and creative work
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Bhakti-06&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+📚 Currently learning Advanced Java, Full-Stack Web Development, and Software Engineering
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=V-Bhakti-06&theme=tokyonight" alt="GitHub Streak" />
+🚀 Building projects and continuously improving programming skills
+
+🌱 Always exploring new technologies and opportunities
 
 ## Skills
 
@@ -26,7 +29,13 @@ I am currently pursuing a Master of Computer Applications (MCA). I am passionate
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
 </p>
 
+## GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=V-Bhakti-06&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Bhakti-06&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=V-Bhakti-06&theme=tokyonight" alt="GitHub Streak" />
 
 ## Contact Me
 
